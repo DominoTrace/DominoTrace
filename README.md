@@ -1,6 +1,6 @@
 # 👾 DOMINOTRACE
 
-![Banner](dominotrace banner.png)
+!(dominotrace banner.png)
 
 ## ⚡ Creative Developer
 Cyberpunk Interfaces • Web Experiences • Digital Experiments
