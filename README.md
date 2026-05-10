@@ -3,7 +3,7 @@
 ![Banner](./dominotrace%20banner.png)
 
 ## ⚡ Creative Developer
-Cyberpunk Interfaces • Web Experiences • Digital Experiments
+Interfaces • Web Experiences • Digital Experiments
 
 ```bash
 > building futuristic projects...
