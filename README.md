@@ -35,7 +35,7 @@
 
 # 🌐 Featured Project
 
-🚀 [Cyberpunk Portfolio](https://dominotrace.github.io/mi-portfolio-github-dev/)
+🚀 [Mi primer Portfolio](https://dominotrace.github.io/mi-portfolio-github-dev/)
 
 ---
 
