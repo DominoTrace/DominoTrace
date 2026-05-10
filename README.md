@@ -37,7 +37,7 @@
 
 🚀 [Mi primer Portfolio](https://dominotrace.github.io/mi-portfolio-github-dev/)
 🚀🚀 [Mi segundo Portfolio](https://dominotrace.github.io/cyberpunk-portfolio-v2/)
-🚀🚀🚀 [Mi tercero Portfolio](https://dominotrace.github.io/minimal-apple-tesla-portfolio/)
+🚀🚀🚀 [Mi tercer Portfolio](https://dominotrace.github.io/minimal-apple-tesla-portfolio/)
 
 ---
 
