@@ -13,7 +13,7 @@
 
 ## ⚡ Creative Developer
 
-Cyberpunk Interfaces • Web Experiences • Digital Experiments
+ Interfaces • Web Experiences • Digital Experiments
 
 ---
 
